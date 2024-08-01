@@ -1,7 +1,7 @@
 torch --index-url https://download.pytorch.org/whl/cu117
 transformers==4.38.2
-accelerate
+accelerate==0.32.1
 bitsandbytes --index-url https://pypi.org/simple/
-sentence_transformers
-scann
-wikipedia-api
+sentence_transformers==3.0.1
+scann==1.3.3
+wikipedia-api==0.6.0
